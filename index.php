@@ -32,7 +32,7 @@ include './header.php'
             </ul>
           </div>
           <div class="button">
-            <button type="button">Call Us Today</button>
+            <a href="#" class="btn">Call Us Today</a>
           </div>
             </div>
         </div>

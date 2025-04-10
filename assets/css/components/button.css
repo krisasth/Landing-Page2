@@ -1,0 +1,41 @@
+/*Button Default*/
+.button .btn {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1.2;
+    background-color: var(--red);
+    color: var(--white);
+    border-radius: 40px;
+    text-decoration: none;
+    text-align: center;
+    padding: 18px 38px;
+    font-weight: 500;
+   }
+   
+   .button .btn:hover {
+    background-color: var(--white);
+    color: var(--black);
+    border-color: var(--black);
+   }
+   
+   /*Button Secondary*/
+   .btn-secondary {
+    border:1px solid white;
+   }
+   
+   .btn-primary:hover {
+    background-color: var(--white);
+    color: var(--blue);
+    border-color: var(--blue);
+   }
+   
+   /*Responsive*/
+   
+   /*For laptop Device*/
+   @media screen and (min-width: 1024px) {
+    .btn {
+     font-size: 22px;
+     padding: 1.0625rem 32px;
+   
+    }
+   }

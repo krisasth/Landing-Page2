@@ -7,7 +7,7 @@
 @import'./assets/css/components/block-title.css';
 @import'./assets/css/components/about-list.css';
 @import'./assets/css/components/about.css';
-
+@import './assets/css/components/button.css' ;
 
 /*Modules*/
 @import'./assets/css/module/header.css';
