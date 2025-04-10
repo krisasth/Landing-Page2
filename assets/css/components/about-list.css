@@ -5,14 +5,15 @@
     
 }
 
-/* .about-list ul li::before{
+ .about-list ul li::before{
     position: absolute;
     font-family: 'icomoon';
+    content: "\e903";
     top: 0;
     left: 0;
-    font-size: 1.625rem;
+    font-size: 16px;
 
-} */
+  }
 
 .about-list ul{
     width: 50%;
