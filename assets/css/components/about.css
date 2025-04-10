@@ -1,0 +1,21 @@
+.aboutus{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+
+
+.aboutus .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.aboutus .col-left{
+    display: inline-block;
+    justify-content: left;
+    width: 50%;
+}
+
+.aboutus .col-right{
+    width: 50%;
+}

@@ -1,0 +1,19 @@
+.about-list ul li{
+    position: relative;
+    list-style-type: none;
+    padding-left:0.75rem;
+    
+}
+
+/* .about-list ul li::before{
+    position: absolute;
+    font-family: 'icomoon';
+    top: 0;
+    left: 0;
+    font-size: 1.625rem;
+
+} */
+
+.about-list ul{
+    width: 50%;
+}

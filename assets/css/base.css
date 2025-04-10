@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: var(--font-lato);
+    font-size: 18px;
+    line-height: 1.75rem;
+}
+
+a{
+    transition: all 0.3s;
+}
+/* Typography */
+ h1,
+.h1,h2,
+.h2,h3,
+.h3,h4,.h4 {
+    margin-bottom: 1rem;
+}
+
+
+
+h1,.h1{
+    font-size: 56px;
+    line-height:1.32;
+    font-weight: 700;
+    font-family: var(--font-titilliumweb);
+}
+h2,.h2{
+    font-size: 36px;
+    line-height:1.39;
+    font-weight: 700;
+    font-family: var(--font-manrope);
+}
+h3,.h3{
+    font-size: 18px;
+    line-height:1.56;
+    font-weight: 400;
+    font-family: var(--font-lato);
+}
+h4,.h4{
+    font-size: 16px;
+    line-height:1.56;
+    font-weight: 600;
+    font-family: var(--font-dmsans);
+}

@@ -1,0 +1,36 @@
+.block-title{
+    margin-bottom: 24px;
+}
+
+.block-title .about{
+    display: inline-block;
+    color: var(--red);
+    font-size: 1rem;
+    line-height: normal;
+    font-weight: 600;
+    margin-bottom:8px ;
+    text-transform: uppercase;
+}
+
+.block-title .icon-text{
+    color: var(--red);
+}
+
+.block-title h2{
+    color: var(--black-100);
+}
+
+.block-title p{
+    color: var(--grey);
+}
+
+.block-title.text-center{
+    text-align: center;
+}
+
+.block-title.text-left{
+    text-align: left;
+}
+.block-title.text-right{
+    text-align: right;
+}
